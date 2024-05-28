@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\Task\\Task.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\ImageModification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\ImageModification.csproj",
+        "projectName": "ImageModification",
+        "projectPath": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\ImageModification.csproj",
+        "packagesPath": "C:\\Users\\tiran.baghdasaryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiran.baghdasaryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\Task\\Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\Task\\Task.csproj",
+        "projectName": "Task",
+        "projectPath": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\Task\\Task.csproj",
+        "packagesPath": "C:\\Users\\tiran.baghdasaryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\Task\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiran.baghdasaryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\ImageModification.csproj": {
+                "projectPath": "C:\\Users\\tiran.baghdasaryan\\RiderProjects\\FakeImagePlugin\\Task\\ImageModification\\ImageModification.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\bin\Debug\net8.0\ImageModification.deps.json
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\bin\Debug\net8.0\ImageModification.dll
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\bin\Debug\net8.0\ImageModification.pdb
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.AssemblyInfoInputs.cache
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.AssemblyInfo.cs
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.csproj.CoreCompileInputs.cache
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.dll
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\refint\ImageModification.dll
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ImageModification.pdb
+C:\Users\tiran.baghdasaryan\RiderProjects\Task\ImageModification\obj\Debug\net8.0\ref\ImageModification.dll
