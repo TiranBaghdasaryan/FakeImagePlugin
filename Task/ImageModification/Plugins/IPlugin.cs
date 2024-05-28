@@ -9,4 +9,10 @@ public interface IPlugin
     /// </summary>
     /// <param name="image"></param>
     void Execute(FakeImage image);
+    
+    /// <summary>
+    /// Rollback previous state
+    /// </summary>
+    /// <param name="image"></param>
+    void Rollback(FakeImage image);
 }

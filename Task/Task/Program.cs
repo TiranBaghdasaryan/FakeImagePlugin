@@ -18,4 +18,8 @@ var image = new FakeImage(size: 150, blurPercentage: 0);
 // Apply plugins to image
 image.ApplyEffects(blurPlugin, resizePlugin);
 
+// Remove plugins if exists.
+image.RemoveEffects(blurPlugin);
+
+
 Console.ReadKey();

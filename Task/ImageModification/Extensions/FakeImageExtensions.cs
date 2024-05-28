@@ -14,4 +14,14 @@ public static class FakeImageExtensions
 
         Console.WriteLine($"Log: modified image size: {image.size} and blur percentage {image.blurPercentage}");
     }
+    
+    public static void RemoveEffects(this FakeImage image, params IPlugin[] plugins)
+    {
+        foreach (var plugin in plugins)
+        {
+            plugin.Rollback(image);
+        }
+
+        Console.WriteLine($"Log: modified image size: {image.size} and blur percentage {image.blurPercentage}");
+    }
 }
